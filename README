@@ -1,11 +1,14 @@
 I am making a pygame engine using some things that i have learned over the past 2 years doing pygame games
 
-''' Todo '''
-* Test.py Make test
-* Fix colisions
-* Add more to the Menu class
+** Todo **
+* Test.py - Make test
+* QuadTree.py - Fix colisions
+* Options.py - Options menu
+** Togling Quadtree Colision  lines
+* Menu.py - Add more to the Menu class
 
-''' Implemented '''
-* Quad trees to minimize the colision dection
+** Implemented **
+* QuadTree.py - Quad trees to minimize the colision dection
+* Menu.py - Create a menu using that use pointers to function from game.py
 * 
 
