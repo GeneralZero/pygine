@@ -1,0 +1,11 @@
+I am making a pygame engine using some things that i have learned over the past 2 years doing pygame games
+
+''' Todo '''
+* Test.py Make test
+* Fix colisions
+* Add more to the Menu class
+
+''' Implemented '''
+* Quad trees to minimize the colision dection
+* 
+
